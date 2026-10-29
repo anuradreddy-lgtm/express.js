@@ -1,10 +1,10 @@
 **Live Demo:** https://web-development-labs.onrender.com
 # Lab 1: Node.js and Express server
 
-**Name:** Bhukya Naveen  
-**Registration Number:**252U1R1033
+**Name:** ANURAD.P  
+**Registration Number:**252U1R1016
 **Section:** CSE CORE
-**Live Link:** Not deployed yet
+
 
 ## How to Run
 
